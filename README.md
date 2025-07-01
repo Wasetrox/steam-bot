@@ -91,6 +91,9 @@ Botu Discord sunucunuza ekledikten sonra şu komutları kullanabilirsiniz:
   ```
 - **Hata Mesajları**: Konsoldaki hata mesajlarını kontrol edin ve gerekirse destek için paylaşın.
 
+## Proje Görüntüleme Sayısı
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=wasetrox&repo=discord-advanced-token-checker&label=Görüntüleme)](https://github.com/wasetrox/steam-bot)
 
 ## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
